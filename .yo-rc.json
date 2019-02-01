@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "leafletmap",
+    "libraryId": "5ee56210-5425-4930-8e80-638b3b9a4f0c",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

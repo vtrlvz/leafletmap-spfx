@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "leafletmap-client-side-solution",
+    "id": "5ee56210-5425-4930-8e80-638b3b9a4f0c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/leafletmap.sppkg"
+  }
+}
